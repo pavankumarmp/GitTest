@@ -12,7 +12,7 @@ public class ShowMsg {
 	}
 	void Disp()
 	{
-		System.out.println("This is display");
+		System.out.println("This is displays");
 	}
 
 }
