@@ -22,7 +22,5 @@ public class GenTest{
 		String s=ob1.Get();
 		ob1.show();
 		System.out.println("s="+s);
-		Disp d=new Disp();
-		d.show();
 	}
 }
