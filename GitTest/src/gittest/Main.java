@@ -7,6 +7,8 @@ public class Main {
 		System.out.println("HELLO");
 		a.Show();
 		a.Disp();
+		Disp p=new Disp();
+		p.Show(10);
 		
 	}
 
